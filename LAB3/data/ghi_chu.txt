@@ -1,0 +1,3 @@
+Java I/O lam viec voi cac luong du lieu
+BufferedWriter giup ghi van ban hieu qua.
+UTF-8 ho tro tieng Viet on dinh
